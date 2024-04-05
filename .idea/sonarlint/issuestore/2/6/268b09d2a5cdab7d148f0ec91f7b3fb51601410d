@@ -1,10 +1,0 @@
-
-r	java:S106"+Replace this use of System.out by a logger.(©î‚Íûÿÿÿÿ8‚Òÿıê1J$e0909f89-021d-47e4-a025-5437802e31c4
-r	java:S106!"+Replace this use of System.out by a logger.(Ş»·¯øÿÿÿÿ8‚Òÿıê1J$3cd57188-7424-4822-9cdf-72d9e53de4ea
-r	java:S1064"+Replace this use of System.out by a logger.(²†Âáıÿÿÿÿ8ƒÒÿıê1J$8f51d699-5476-48d1-8552-873c8dcb1f46
-r	java:S1065"+Replace this use of System.out by a logger.(ı€ÿ…ûÿÿÿÿ8³Áşê1J$6a8ec5fa-cea7-4c92-b12b-b49805b9f18e
-¡
-java:S21429"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ƒÒÿıê1J$cf3426cd-3074-49f4-b13e-f4fb21ba035b
-m	java:S106="+Replace this use of System.out by a logger.(©™èÖ8µÁşê1J$fd7908f9-dc53-4290-af18-225a06bd5c9b
-n
-java:S1168M"+Return an empty collection instead of null.(¥¹ï8ˆÒÿıê1J$d6382339-8895-4863-ae60-f30070e735f2
